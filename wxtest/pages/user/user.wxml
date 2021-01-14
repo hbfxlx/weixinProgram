@@ -1,0 +1,4 @@
+<!--pages/user/user.wxml-->
+<text class="text">我是标题我是可以复制的</text>
+<view class="vi1">1、测式</view>
+<view class="vi1">2、我能干吗</view>
