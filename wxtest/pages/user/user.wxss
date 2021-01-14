@@ -1,0 +1,16 @@
+.text{
+  font-size: 28px;
+  word-wrap: break-word;
+  color: #222226;
+  font-weight: 600;
+  margin: 0;
+  word-break: break-all;
+}
+.vi1{
+  display: block;
+  word-wrap: break-word;
+  color: #555666;
+  line-height: 180%;
+  border: 1px #FF0004 solid;
+  margin: 5px 0;
+}
